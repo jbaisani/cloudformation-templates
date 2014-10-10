@@ -1,3 +1,5 @@
 echo " comments to the file "
 "indexing testing the commit"
 testing conflict merging
+"testing the commit"
+"jana trying make conflict"
